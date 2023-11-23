@@ -9,14 +9,14 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thiagonegree@icloud.com)
 
 
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagonegre&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagonegre&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
 ### Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
@@ -29,3 +29,8 @@
 </div></br>
 
 <i>Estudando todos os dias para aumentar essa lista⬆️ </i>
+
+ ![nebulosa](https://www.pngall.com/wp-content/uploads/10/Nebula-PNG-Picture.png) 
+
+
+
