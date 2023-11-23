@@ -1,12 +1,20 @@
 
-### Olá, eu sou o Thiago✌🏾
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Meu+nome+%C3%A9+Thiago%2C;Desenvolvedor+Fullstack)](https://git.io/typing-svg)
+
 <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoanacleto/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thiagonegree@icloud.com)
 
 
-![dev_thiGitstats](https://github-readme-stats.vercel.app/api?username=thiagonegre&show_icons=true&theme=cobalt)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=thiagonegre&show_icons=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagonegre&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 ### Tecnologias que eu uso no meu dia:
