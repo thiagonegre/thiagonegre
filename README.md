@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Meu+nome+%C3%A9+Thiago%2C;Desenvolvedor+Fullstack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!;Meu+nome+%C3%A9+Thiago%2C;Desenvolvedor+FrontEnd)](https://git.io/typing-svg)
 
 <br>
 
